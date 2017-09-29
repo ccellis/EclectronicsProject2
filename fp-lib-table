@@ -1,3 +1,7 @@
 (fp_lib_table
+<<<<<<< HEAD
   (lib (name Project2FootprintsPaige)(type KiCad)(uri "$(KIPRJMOD)/Project2FootprintsPaige.pretty")(options "")(descr ""))
+=======
+  (lib (name Project2Footprints)(type KiCad)(uri "$(KIPRJMOD)/Project2Footprints.pretty")(options "")(descr ""))
+>>>>>>> 1036787473b8d6539682688307cb67166e277e3d
 )
