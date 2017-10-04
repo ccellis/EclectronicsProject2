@@ -1,0 +1,866 @@
+Info: Reading netlist file "C:\Users\cellis\Dropbox\HW\Eclectronics\EclectronicsProject2\Project2.net".
+
+Info: Using references to match components and footprints.
+
+Error: No footprint defined for component 'J10'.
+
+Info: Checking netlist component footprint "C1:/59CD28F0:Capacitors_SMD:C_0603".
+
+Adding new component "C1:/59CD28F0" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C1:/59CD28F0" pin "2" net name from "" to "GND".
+
+Changing component "C1:/59CD28F0" pin "1" net name from "" to "RST#".
+
+Info: Checking netlist component footprint "C2:/59C96475:Capacitors_SMD:C_0603".
+
+Adding new component "C2:/59C96475" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C2:/59C96475" pin "2" net name from "" to "GND".
+
+Changing component "C2:/59C96475" pin "1" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "C3:/59C96444:Capacitors_SMD:C_0603".
+
+Adding new component "C3:/59C96444" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C3:/59C96444" pin "2" net name from "" to "GND".
+
+Changing component "C3:/59C96444" pin "1" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "C4:/59C97602:Capacitors_SMD:C_0603".
+
+Adding new component "C4:/59C97602" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C4:/59C97602" pin "2" net name from "" to "GND".
+
+Changing component "C4:/59C97602" pin "1" net name from "" to "Net-(C4-Pad1)".
+
+Info: Checking netlist component footprint "C5:/59C96414:Capacitors_SMD:C_0603".
+
+Adding new component "C5:/59C96414" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C5:/59C96414" pin "2" net name from "" to "GND".
+
+Changing component "C5:/59C96414" pin "1" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "C6:/59C9757B:Capacitors_SMD:C_0603".
+
+Adding new component "C6:/59C9757B" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C6:/59C9757B" pin "2" net name from "" to "GND".
+
+Changing component "C6:/59C9757B" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Info: Checking netlist component footprint "C7:/59C963E9:Capacitors_SMD:C_0603".
+
+Adding new component "C7:/59C963E9" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C7:/59C963E9" pin "2" net name from "" to "GND".
+
+Changing component "C7:/59C963E9" pin "1" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "C8:/59C96199:Capacitors_SMD:C_0603".
+
+Adding new component "C8:/59C96199" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C8:/59C96199" pin "2" net name from "" to "GND".
+
+Changing component "C8:/59C96199" pin "1" net name from "" to "VBACKUP".
+
+Info: Checking netlist component footprint "C9:/59C963AB:Capacitors_SMD:C_0603".
+
+Adding new component "C9:/59C963AB" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C9:/59C963AB" pin "2" net name from "" to "GND".
+
+Changing component "C9:/59C963AB" pin "1" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "C10:/59C96802:Capacitors_SMD:C_0603".
+
+Adding new component "C10:/59C96802" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C10:/59C96802" pin "2" net name from "" to "GND".
+
+Changing component "C10:/59C96802" pin "1" net name from "" to "A3V3".
+
+Info: Checking netlist component footprint "C11:/59C967C1:Capacitors_SMD:C_0603".
+
+Adding new component "C11:/59C967C1" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C11:/59C967C1" pin "2" net name from "" to "GND".
+
+Changing component "C11:/59C967C1" pin "1" net name from "" to "A3V3".
+
+Info: Checking netlist component footprint "C12:/59C98214:Capacitors_SMD:C_0603".
+
+Adding new component "C12:/59C98214" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C12:/59C98214" pin "2" net name from "" to "GND".
+
+Changing component "C12:/59C98214" pin "1" net name from "" to "Net-(C12-Pad1)".
+
+Info: Checking netlist component footprint "C13:/59C98284:Capacitors_SMD:C_0603".
+
+Adding new component "C13:/59C98284" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C13:/59C98284" pin "2" net name from "" to "GND".
+
+Changing component "C13:/59C98284" pin "1" net name from "" to "Net-(C13-Pad1)".
+
+Info: Checking netlist component footprint "C14:/59C96BB5:Capacitors_SMD:C_0603".
+
+Adding new component "C14:/59C96BB5" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C14:/59C96BB5" pin "2" net name from "" to "GND".
+
+Changing component "C14:/59C96BB5" pin "1" net name from "" to "Net-(C14-Pad1)".
+
+Info: Checking netlist component footprint "C15:/59C96B51:Capacitors_SMD:C_0603".
+
+Adding new component "C15:/59C96B51" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C15:/59C96B51" pin "2" net name from "" to "GND".
+
+Changing component "C15:/59C96B51" pin "1" net name from "" to "Net-(C15-Pad1)".
+
+Info: Checking netlist component footprint "C16:/59CC7D45:Capacitors_SMD:C_0603".
+
+Adding new component "C16:/59CC7D45" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C16:/59CC7D45" pin "2" net name from "" to "GND".
+
+Changing component "C16:/59CC7D45" pin "1" net name from "" to "V+".
+
+Info: Checking netlist component footprint "C17:/59CC7E40:Capacitors_SMD:C_0603".
+
+Adding new component "C17:/59CC7E40" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C17:/59CC7E40" pin "2" net name from "" to "GND".
+
+Changing component "C17:/59CC7E40" pin "1" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "C18:/59CC230F:Capacitors_SMD:C_0603".
+
+Adding new component "C18:/59CC230F" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C18:/59CC230F" pin "2" net name from "" to "MMA_AVDD".
+
+Changing component "C18:/59CC230F" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C19:/59CC29C9:Capacitors_SMD:C_0603".
+
+Adding new component "C19:/59CC29C9" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C19:/59CC29C9" pin "2" net name from "" to "3V3".
+
+Changing component "C19:/59CC29C9" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C20:/59CCB25C:Capacitors_SMD:C_0603".
+
+Adding new component "C20:/59CCB25C" footprint "Capacitors_SMD:C_0603".
+
+Changing component "C20:/59CCB25C" pin "2" net name from "" to "3V3".
+
+Changing component "C20:/59CCB25C" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D1:/59CC052C:LEDs:LED_0805".
+
+Adding new component "D1:/59CC052C" footprint "LEDs:LED_0805".
+
+Changing component "D1:/59CC052C" pin "2" net name from "" to "Net-(D1-Pad2)".
+
+Changing component "D1:/59CC052C" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D2:/59CC0620:LEDs:LED_0805".
+
+Adding new component "D2:/59CC0620" footprint "LEDs:LED_0805".
+
+Changing component "D2:/59CC0620" pin "2" net name from "" to "Net-(D2-Pad2)".
+
+Changing component "D2:/59CC0620" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D3:/59CC069E:LEDs:LED_0805".
+
+Adding new component "D3:/59CC069E" footprint "LEDs:LED_0805".
+
+Changing component "D3:/59CC069E" pin "2" net name from "" to "Net-(D3-Pad2)".
+
+Changing component "D3:/59CC069E" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D4:/59CC071F:LEDs:LED_0805".
+
+Adding new component "D4:/59CC071F" footprint "LEDs:LED_0805".
+
+Changing component "D4:/59CC071F" pin "2" net name from "" to "Net-(D4-Pad2)".
+
+Changing component "D4:/59CC071F" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D5:/59CC6057:Project2Footprints:Diode".
+
+Adding new component "D5:/59CC6057" footprint "Project2Footprints:Diode".
+
+Changing component "D5:/59CC6057" pin "1" net name from "" to "V+".
+
+Changing component "D5:/59CC6057" pin "2" net name from "" to "Net-(D5-Pad2)".
+
+Info: Checking netlist component footprint "J1:/59CBC70F:Project2Footprints:1x8_Header".
+
+Adding new component "J1:/59CBC70F" footprint "Project2Footprints:1x8_Header".
+
+Changing component "J1:/59CBC70F" pin "1" net name from "" to "Y1".
+
+Changing component "J1:/59CBC70F" pin "2" net name from "" to "Y2".
+
+Changing component "J1:/59CBC70F" pin "3" net name from "" to "Y3".
+
+Changing component "J1:/59CBC70F" pin "4" net name from "" to "Y4".
+
+Changing component "J1:/59CBC70F" pin "5" net name from "" to "Y5".
+
+Changing component "J1:/59CBC70F" pin "6" net name from "" to "Y6".
+
+Changing component "J1:/59CBC70F" pin "7" net name from "" to "Y7".
+
+Changing component "J1:/59CBC70F" pin "8" net name from "" to "Y8".
+
+Info: Checking netlist component footprint "J2:/59CBC678:Project2Footprints:1x8_Header".
+
+Adding new component "J2:/59CBC678" footprint "Project2Footprints:1x8_Header".
+
+Info: Checking netlist component footprint "J3:/59CBC8B8:Project2Footprints:1x8_Header".
+
+Adding new component "J3:/59CBC8B8" footprint "Project2Footprints:1x8_Header".
+
+Info: Checking netlist component footprint "J4:/59CBC506:Project2Footprints:1x8_Header".
+
+Adding new component "J4:/59CBC506" footprint "Project2Footprints:1x8_Header".
+
+Changing component "J4:/59CBC506" pin "1" net name from "" to "BOOT0_P1".
+
+Changing component "J4:/59CBC506" pin "2" net name from "" to "BLU_P2".
+
+Changing component "J4:/59CBC506" pin "3" net name from "" to "YEL_P3".
+
+Changing component "J4:/59CBC506" pin "4" net name from "" to "GRN_P4".
+
+Changing component "J4:/59CBC506" pin "5" net name from "" to "RED_P5".
+
+Changing component "J4:/59CBC506" pin "6" net name from "" to "Net-(J4-Pad6)".
+
+Changing component "J4:/59CBC506" pin "7" net name from "" to "V+".
+
+Changing component "J4:/59CBC506" pin "8" net name from "" to "GND".
+
+Info: Checking netlist component footprint "J5:/59CC90A5:Project2Footprints:MicroSD".
+
+Adding new component "J5:/59CC90A5" footprint "Project2Footprints:MicroSD".
+
+Changing component "J5:/59CC90A5" pin "8" net name from "" to "SDIO_D1".
+
+Changing component "J5:/59CC90A5" pin "7" net name from "" to "SDIO_D0".
+
+Changing component "J5:/59CC90A5" pin "6" net name from "" to "GND".
+
+Changing component "J5:/59CC90A5" pin "5" net name from "" to "SDIO_CK".
+
+Changing component "J5:/59CC90A5" pin "4" net name from "" to "3V3".
+
+Changing component "J5:/59CC90A5" pin "3" net name from "" to "SDIO_CMD".
+
+Changing component "J5:/59CC90A5" pin "2" net name from "" to "SDIO_D3".
+
+Changing component "J5:/59CC90A5" pin "1" net name from "" to "SDIO_D2".
+
+Info: Checking netlist component footprint "J6:/59CC6AFD:Project2Footprints:Battery".
+
+Adding new component "J6:/59CC6AFD" footprint "Project2Footprints:Battery".
+
+Changing component "J6:/59CC6AFD" pin "1" net name from "" to "Net-(J6-Pad1)".
+
+Changing component "J6:/59CC6AFD" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "J7:/59CBC82D:Project2Footprints:2x4_Header".
+
+Adding new component "J7:/59CBC82D" footprint "Project2Footprints:2x4_Header".
+
+Changing component "J7:/59CBC82D" pin "1" net name from "" to "GND".
+
+Changing component "J7:/59CBC82D" pin "2" net name from "" to "GND".
+
+Changing component "J7:/59CBC82D" pin "3" net name from "" to "GND".
+
+Changing component "J7:/59CBC82D" pin "4" net name from "" to "GND".
+
+Changing component "J7:/59CBC82D" pin "5" net name from "" to "V+".
+
+Changing component "J7:/59CBC82D" pin "6" net name from "" to "V+".
+
+Changing component "J7:/59CBC82D" pin "7" net name from "" to "V+".
+
+Changing component "J7:/59CBC82D" pin "8" net name from "" to "V+".
+
+Info: Checking netlist component footprint "J8:/59CBC7A4:Project2Footprints:1x8_Header".
+
+Adding new component "J8:/59CBC7A4" footprint "Project2Footprints:1x8_Header".
+
+Info: Checking netlist component footprint "J9:/59CBC607:Project2Footprints:1x8_Header".
+
+Adding new component "J9:/59CBC607" footprint "Project2Footprints:1x8_Header".
+
+Changing component "J9:/59CBC607" pin "1" net name from "" to "X1".
+
+Changing component "J9:/59CBC607" pin "2" net name from "" to "X2".
+
+Changing component "J9:/59CBC607" pin "3" net name from "" to "X3".
+
+Changing component "J9:/59CBC607" pin "4" net name from "" to "X4".
+
+Changing component "J9:/59CBC607" pin "5" net name from "" to "X5".
+
+Changing component "J9:/59CBC607" pin "6" net name from "" to "X6".
+
+Changing component "J9:/59CBC607" pin "7" net name from "" to "X7".
+
+Changing component "J9:/59CBC607" pin "8" net name from "" to "X8".
+
+Info: Checking netlist component footprint "J10:/59CC3104:".
+
+Error: Cannot add new component "J10:/59CC3104" due to missing footprint "".
+
+Info: Checking netlist component footprint "L1:/59CD16C1:Inductors_SMD:L_0603".
+
+Adding new component "L1:/59CD16C1" footprint "Inductors_SMD:L_0603".
+
+Changing component "L1:/59CD16C1" pin "1" net name from "" to "A3V3".
+
+Changing component "L1:/59CD16C1" pin "2" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "Q1:/59CC622D:Project2Footprints:MOSFET".
+
+Adding new component "Q1:/59CC622D" footprint "Project2Footprints:MOSFET".
+
+Changing component "Q1:/59CC622D" pin "1" net name from "" to "Net-(D5-Pad2)".
+
+Changing component "Q1:/59CC622D" pin "2" net name from "" to "V+".
+
+Changing component "Q1:/59CC622D" pin "3" net name from "" to "Net-(J6-Pad1)".
+
+Info: Checking netlist component footprint "R1:/59CD2EF2:Resistors_SMD:R_0603".
+
+Adding new component "R1:/59CD2EF2" footprint "Resistors_SMD:R_0603".
+
+Changing component "R1:/59CD2EF2" pin "1" net name from "" to "3V3".
+
+Changing component "R1:/59CD2EF2" pin "2" net name from "" to "RST#".
+
+Info: Checking netlist component footprint "R2:/59C9772D:Resistors_SMD:R_0603".
+
+Adding new component "R2:/59C9772D" footprint "Resistors_SMD:R_0603".
+
+Changing component "R2:/59C9772D" pin "1" net name from "" to "BOOT0-P1".
+
+Changing component "R2:/59C9772D" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R3:/59CCCECF:Resistors_SMD:R_0603".
+
+Adding new component "R3:/59CCCECF" footprint "Resistors_SMD:R_0603".
+
+Changing component "R3:/59CCCECF" pin "1" net name from "" to "MMA_AVDD".
+
+Changing component "R3:/59CCCECF" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R4:/59C993AB:Resistors_SMD:R_0603".
+
+Adding new component "R4:/59C993AB" footprint "Resistors_SMD:R_0603".
+
+Changing component "R4:/59C993AB" pin "1" net name from "" to "3V3".
+
+Changing component "R4:/59C993AB" pin "2" net name from "" to "SDIO_D3".
+
+Info: Checking netlist component footprint "R5:/59CCC3DD:Resistors_SMD:R_0603".
+
+Adding new component "R5:/59CCC3DD" footprint "Resistors_SMD:R_0603".
+
+Changing component "R5:/59CCC3DD" pin "1" net name from "" to "3V3".
+
+Changing component "R5:/59CCC3DD" pin "2" net name from "" to "USB_ID".
+
+Info: Checking netlist component footprint "R6:/59CCD19B:Resistors_SMD:R_0603".
+
+Adding new component "R6:/59CCD19B" footprint "Resistors_SMD:R_0603".
+
+Changing component "R6:/59CCD19B" pin "1" net name from "" to "BOOT1_MMA_INT".
+
+Changing component "R6:/59CCD19B" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R7:/59CCF36C:Resistors_SMD:R_0603".
+
+Adding new component "R7:/59CCF36C" footprint "Resistors_SMD:R_0603".
+
+Changing component "R7:/59CCF36C" pin "1" net name from "" to "3V3".
+
+Changing component "R7:/59CCF36C" pin "2" net name from "" to "SCL_X9".
+
+Info: Checking netlist component footprint "R8:/59CCF232:Resistors_SMD:R_0603".
+
+Adding new component "R8:/59CCF232" footprint "Resistors_SMD:R_0603".
+
+Changing component "R8:/59CCF232" pin "1" net name from "" to "3V3".
+
+Changing component "R8:/59CCF232" pin "2" net name from "" to "SDA_X10".
+
+Info: Checking netlist component footprint "R9:/59CC150A:Resistors_SMD:R_0603".
+
+Adding new component "R9:/59CC150A" footprint "Resistors_SMD:R_0603".
+
+Changing component "R9:/59CC150A" pin "1" net name from "" to "Net-(R15-Pad2)".
+
+Changing component "R9:/59CC150A" pin "2" net name from "" to "RED_P5".
+
+Info: Checking netlist component footprint "R10:/59CC13D5:Resistors_SMD:R_0603".
+
+Adding new component "R10:/59CC13D5" footprint "Resistors_SMD:R_0603".
+
+Changing component "R10:/59CC13D5" pin "1" net name from "" to "Net-(R10-Pad1)".
+
+Changing component "R10:/59CC13D5" pin "2" net name from "" to "GRN_P4".
+
+Info: Checking netlist component footprint "R11:/59CC129C:Resistors_SMD:R_0603".
+
+Adding new component "R11:/59CC129C" footprint "Resistors_SMD:R_0603".
+
+Changing component "R11:/59CC129C" pin "1" net name from "" to "Net-(R11-Pad1)".
+
+Changing component "R11:/59CC129C" pin "2" net name from "" to "YEL_P3".
+
+Info: Checking netlist component footprint "R12:/59CC1173:Resistors_SMD:R_0603".
+
+Adding new component "R12:/59CC1173" footprint "Resistors_SMD:R_0603".
+
+Changing component "R12:/59CC1173" pin "1" net name from "" to "Net-(R12-Pad1)".
+
+Changing component "R12:/59CC1173" pin "2" net name from "" to "BLU_P2".
+
+Info: Checking netlist component footprint "R13:/59CCEB8C:Resistors_SMD:R_0603".
+
+Adding new component "R13:/59CCEB8C" footprint "Resistors_SMD:R_0603".
+
+Changing component "R13:/59CCEB8C" pin "1" net name from "" to "3V3".
+
+Changing component "R13:/59CCEB8C" pin "2" net name from "" to "Y9".
+
+Info: Checking netlist component footprint "R14:/59CCE966:Resistors_SMD:R_0603".
+
+Adding new component "R14:/59CCE966" footprint "Resistors_SMD:R_0603".
+
+Changing component "R14:/59CCE966" pin "1" net name from "" to "3V3".
+
+Changing component "R14:/59CCE966" pin "2" net name from "" to "Y10".
+
+Info: Checking netlist component footprint "R15:/59CC146B:Resistors_SMD:R_0603".
+
+Adding new component "R15:/59CC146B" footprint "Resistors_SMD:R_0603".
+
+Changing component "R15:/59CC146B" pin "1" net name from "" to "Net-(D1-Pad2)".
+
+Changing component "R15:/59CC146B" pin "2" net name from "" to "Net-(R15-Pad2)".
+
+Info: Checking netlist component footprint "R16:/59CC1330:Resistors_SMD:R_0603".
+
+Adding new component "R16:/59CC1330" footprint "Resistors_SMD:R_0603".
+
+Changing component "R16:/59CC1330" pin "1" net name from "" to "Net-(D2-Pad2)".
+
+Changing component "R16:/59CC1330" pin "2" net name from "" to "Net-(R10-Pad1)".
+
+Info: Checking netlist component footprint "R17:/59CC11FF:Resistors_SMD:R_0603".
+
+Adding new component "R17:/59CC11FF" footprint "Resistors_SMD:R_0603".
+
+Changing component "R17:/59CC11FF" pin "1" net name from "" to "Net-(D3-Pad2)".
+
+Changing component "R17:/59CC11FF" pin "2" net name from "" to "Net-(R11-Pad1)".
+
+Info: Checking netlist component footprint "R18:/59CC1052:Resistors_SMD:R_0603".
+
+Adding new component "R18:/59CC1052" footprint "Resistors_SMD:R_0603".
+
+Changing component "R18:/59CC1052" pin "1" net name from "" to "Net-(D4-Pad2)".
+
+Changing component "R18:/59CC1052" pin "2" net name from "" to "Net-(R12-Pad1)".
+
+Info: Checking netlist component footprint "R19:/59CC0265:Resistors_SMD:R_0603".
+
+Adding new component "R19:/59CC0265" footprint "Resistors_SMD:R_0603".
+
+Changing component "R19:/59CC0265" pin "1" net name from "" to "SW_X17".
+
+Changing component "R19:/59CC0265" pin "2" net name from "" to "Net-(R19-Pad2)".
+
+Info: Checking netlist component footprint "R20:/59CBEDA1:Resistors_SMD:R_0603".
+
+Adding new component "R20:/59CBEDA1" footprint "Resistors_SMD:R_0603".
+
+Changing component "R20:/59CBEDA1" pin "1" net name from "" to "VBACKUP".
+
+Changing component "R20:/59CBEDA1" pin "2" net name from "" to "Net-(R20-Pad2)".
+
+Info: Checking netlist component footprint "R21:/59CBEC03:Resistors_SMD:R_0603".
+
+Adding new component "R21:/59CBEC03" footprint "Resistors_SMD:R_0603".
+
+Changing component "R21:/59CBEC03" pin "1" net name from "" to "Net-(R20-Pad2)".
+
+Changing component "R21:/59CBEC03" pin "2" net name from "" to "Net-(J4-Pad6)".
+
+Info: Checking netlist component footprint "R22:/59CC3F75:Resistors_SMD:R_0603".
+
+Adding new component "R22:/59CC3F75" footprint "Resistors_SMD:R_0603".
+
+Changing component "R22:/59CC3F75" pin "1" net name from "" to "Net-(R22-Pad1)".
+
+Changing component "R22:/59CC3F75" pin "2" net name from "" to "USB_VBUS".
+
+Info: Checking netlist component footprint "R23:/59CC424C:Resistors_SMD:R_0603".
+
+Adding new component "R23:/59CC424C" footprint "Resistors_SMD:R_0603".
+
+Changing component "R23:/59CC424C" pin "1" net name from "" to "Net-(R23-Pad1)".
+
+Changing component "R23:/59CC424C" pin "2" net name from "" to "USB_DM".
+
+Info: Checking netlist component footprint "R24:/59CC4306:Resistors_SMD:R_0603".
+
+Adding new component "R24:/59CC4306" footprint "Resistors_SMD:R_0603".
+
+Changing component "R24:/59CC4306" pin "1" net name from "" to "Net-(R24-Pad1)".
+
+Changing component "R24:/59CC4306" pin "2" net name from "" to "USB_DP".
+
+Info: Checking netlist component footprint "R25:/59CC3D67:Resistors_SMD:R_0603".
+
+Adding new component "R25:/59CC3D67" footprint "Resistors_SMD:R_0603".
+
+Changing component "R25:/59CC3D67" pin "1" net name from "" to "Net-(R25-Pad1)".
+
+Changing component "R25:/59CC3D67" pin "2" net name from "" to "USB_ID".
+
+Info: Checking netlist component footprint "R26:/59CC3E7F:Resistors_SMD:R_0603".
+
+Adding new component "R26:/59CC3E7F" footprint "Resistors_SMD:R_0603".
+
+Changing component "R26:/59CC3E7F" pin "1" net name from "" to "Net-(D5-Pad2)".
+
+Changing component "R26:/59CC3E7F" pin "2" net name from "" to "Net-(R22-Pad1)".
+
+Info: Checking netlist component footprint "R27:/59CC40A9:Resistors_SMD:R_0603".
+
+Adding new component "R27:/59CC40A9" footprint "Resistors_SMD:R_0603".
+
+Changing component "R27:/59CC40A9" pin "1" net name from "" to "Net-(J10-Pad2)".
+
+Changing component "R27:/59CC40A9" pin "2" net name from "" to "Net-(R23-Pad1)".
+
+Info: Checking netlist component footprint "R28:/59CC43C5:Resistors_SMD:R_0603".
+
+Adding new component "R28:/59CC43C5" footprint "Resistors_SMD:R_0603".
+
+Changing component "R28:/59CC43C5" pin "1" net name from "" to "Net-(J10-Pad3)".
+
+Changing component "R28:/59CC43C5" pin "2" net name from "" to "Net-(R24-Pad1)".
+
+Info: Checking netlist component footprint "R29:/59CC3C08:Resistors_SMD:R_0603".
+
+Adding new component "R29:/59CC3C08" footprint "Resistors_SMD:R_0603".
+
+Changing component "R29:/59CC3C08" pin "1" net name from "" to "Net-(J10-Pad4)".
+
+Changing component "R29:/59CC3C08" pin "2" net name from "" to "Net-(R25-Pad1)".
+
+Info: Checking netlist component footprint "R30:/59CC5DEF:Resistors_SMD:R_0603".
+
+Adding new component "R30:/59CC5DEF" footprint "Resistors_SMD:R_0603".
+
+Changing component "R30:/59CC5DEF" pin "1" net name from "" to "GND".
+
+Changing component "R30:/59CC5DEF" pin "2" net name from "" to "Net-(D5-Pad2)".
+
+Info: Checking netlist component footprint "SW1:/59CD75F5:Project2Footprints:Switch".
+
+Adding new component "SW1:/59CD75F5" footprint "Project2Footprints:Switch".
+
+Changing component "SW1:/59CD75F5" pin "1" net name from "" to "GND".
+
+Changing component "SW1:/59CD75F5" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "SW2:/59CD72C5:Project2Footprints:Switch".
+
+Adding new component "SW2:/59CD72C5" footprint "Project2Footprints:Switch".
+
+Changing component "SW2:/59CD72C5" pin "1" net name from "" to "GND".
+
+Changing component "SW2:/59CD72C5" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "U1:/59C82503:Project2Footprints:MicrocontrollerFootprint".
+
+Adding new component "U1:/59C82503" footprint "Project2Footprints:MicrocontrollerFootprint".
+
+Changing component "U1:/59C82503" pin "17" net name from "" to "X4".
+
+Changing component "U1:/59C82503" pin "6" net name from "" to "Net-(C15-Pad1)".
+
+Changing component "U1:/59C82503" pin "1" net name from "" to "VBACKUP".
+
+Changing component "U1:/59C82503" pin "4" net name from "" to "Net-(C13-Pad1)".
+
+Changing component "U1:/59C82503" pin "2" net name from "" to "X18".
+
+Changing component "U1:/59C82503" pin "3" net name from "" to "Net-(C12-Pad1)".
+
+Changing component "U1:/59C82503" pin "5" net name from "" to "Net-(C14-Pad1)".
+
+Changing component "U1:/59C82503" pin "10" net name from "" to "X21".
+
+Changing component "U1:/59C82503" pin "8" net name from "" to "X19".
+
+Changing component "U1:/59C82503" pin "9" net name from "" to "X20".
+
+Changing component "U1:/59C82503" pin "7" net name from "" to "RST#".
+
+Changing component "U1:/59C82503" pin "11" net name from "" to "X22".
+
+Changing component "U1:/59C82503" pin "12" net name from "" to "GND".
+
+Changing component "U1:/59C82503" pin "13" net name from "" to "A3V3".
+
+Changing component "U1:/59C82503" pin "15" net name from "" to "X2".
+
+Changing component "U1:/59C82503" pin "14" net name from "" to "X1".
+
+Changing component "U1:/59C82503" pin "16" net name from "" to "X3".
+
+Changing component "U1:/59C82503" pin "18" net name from "" to "GND".
+
+Changing component "U1:/59C82503" pin "19" net name from "" to "3V3".
+
+Changing component "U1:/59C82503" pin "20" net name from "" to "X5".
+
+Changing component "U1:/59C82503" pin "21" net name from "" to "X6".
+
+Changing component "U1:/59C82503" pin "22" net name from "" to "X7".
+
+Changing component "U1:/59C82503" pin "23" net name from "" to "X8".
+
+Changing component "U1:/59C82503" pin "24" net name from "" to "X11".
+
+Changing component "U1:/59C82503" pin "25" net name from "" to "X12".
+
+Changing component "U1:/59C82503" pin "26" net name from "" to "Y11".
+
+Changing component "U1:/59C82503" pin "27" net name from "" to "Y12".
+
+Changing component "U1:/59C82503" pin "28" net name from "" to "BOOT1_MMA_INT".
+
+Changing component "U1:/59C82503" pin "29" net name from "" to "Y9".
+
+Changing component "U1:/59C82503" pin "30" net name from "" to "Y10".
+
+Changing component "U1:/59C82503" pin "31" net name from "" to "Net-(C4-Pad1)".
+
+Changing component "U1:/59C82503" pin "32" net name from "" to "3V3".
+
+Changing component "U1:/59C82503" pin "33" net name from "" to "Y5".
+
+Changing component "U1:/59C82503" pin "34" net name from "" to "Y6".
+
+Changing component "U1:/59C82503" pin "35" net name from "" to "Y7".
+
+Changing component "U1:/59C82503" pin "36" net name from "" to "Y8".
+
+Changing component "U1:/59C82503" pin "37" net name from "" to "Y1".
+
+Changing component "U1:/59C82503" pin "38" net name from "" to "Y2".
+
+Changing component "U1:/59C82503" pin "39" net name from "" to "SDIO_D0".
+
+Changing component "U1:/59C82503" pin "40" net name from "" to "SDIO_D1".
+
+Changing component "U1:/59C82503" pin "41" net name from "" to "SDIO_SW".
+
+Changing component "U1:/59C82503" pin "42" net name from "" to "USB_VBUS".
+
+Changing component "U1:/59C82503" pin "43" net name from "" to "USB_ID".
+
+Changing component "U1:/59C82503" pin "44" net name from "" to "USB_DM".
+
+Changing component "U1:/59C82503" pin "45" net name from "" to "USB_DP".
+
+Changing component "U1:/59C82503" pin "46" net name from "" to "RED_P5".
+
+Changing component "U1:/59C82503" pin "47" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "U1:/59C82503" pin "48" net name from "" to "3V3".
+
+Changing component "U1:/59C82503" pin "49" net name from "" to "GRN_P4".
+
+Changing component "U1:/59C82503" pin "50" net name from "" to "YEL_P3".
+
+Changing component "U1:/59C82503" pin "51" net name from "" to "SDIO_D2".
+
+Changing component "U1:/59C82503" pin "52" net name from "" to "SDIO_D3".
+
+Changing component "U1:/59C82503" pin "53" net name from "" to "SDIO_CK".
+
+Changing component "U1:/59C82503" pin "54" net name from "" to "SDIO_CMD".
+
+Changing component "U1:/59C82503" pin "55" net name from "" to "SW_X17".
+
+Changing component "U1:/59C82503" pin "56" net name from "" to "BLU_P2".
+
+Changing component "U1:/59C82503" pin "57" net name from "" to "MMA_AVDD".
+
+Changing component "U1:/59C82503" pin "58" net name from "" to "SCL_X9".
+
+Changing component "U1:/59C82503" pin "59" net name from "" to "SDA_X10".
+
+Changing component "U1:/59C82503" pin "60" net name from "" to "BOOT0-P1".
+
+Changing component "U1:/59C82503" pin "61" net name from "" to "Y3".
+
+Changing component "U1:/59C82503" pin "62" net name from "" to "Y4".
+
+Changing component "U1:/59C82503" pin "63" net name from "" to "GND".
+
+Changing component "U1:/59C82503" pin "64" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "U2:/59CC7C04:Project2Footprints:VoltageRegulator".
+
+Adding new component "U2:/59CC7C04" footprint "Project2Footprints:VoltageRegulator".
+
+Changing component "U2:/59CC7C04" pin "1" net name from "" to "3V3".
+
+Info: Checking netlist component footprint "U3:/59CC1DEB:Project2Footprints:Accelerometer".
+
+Adding new component "U3:/59CC1DEB" footprint "Project2Footprints:Accelerometer".
+
+Changing component "U3:/59CC1DEB" pin "1" net name from "" to "GND".
+
+Changing component "U3:/59CC1DEB" pin "2" net name from "" to "GND".
+
+Changing component "U3:/59CC1DEB" pin "3" net name from "" to "MMA_AVDD".
+
+Changing component "U3:/59CC1DEB" pin "4" net name from "" to "GND".
+
+Changing component "U3:/59CC1DEB" pin "5" net name from "" to "BOOT1_MMA_INT".
+
+Changing component "U3:/59CC1DEB" pin "6" net name from "" to "Net-(U3-Pad6)".
+
+Changing component "U3:/59CC1DEB" pin "7" net name from "" to "Net-(U3-Pad7)".
+
+Changing component "U3:/59CC1DEB" pin "8" net name from "" to "GND".
+
+Changing component "U3:/59CC1DEB" pin "9" net name from "" to "3V3".
+
+Changing component "U3:/59CC1DEB" pin "10" net name from "" to "GND".
+
+Info: Checking netlist component footprint "U4:/59CC56C2:TO_SOT_Packages_SMD:SOT-23-5".
+
+Adding new component "U4:/59CC56C2" footprint "TO_SOT_Packages_SMD:SOT-23-5".
+
+Changing component "U4:/59CC56C2" pin "1" net name from "" to "V+".
+
+Changing component "U4:/59CC56C2" pin "2" net name from "" to "GND".
+
+Changing component "U4:/59CC56C2" pin "3" net name from "" to "B".
+
+Changing component "U4:/59CC56C2" pin "4" net name from "" to "Net-(U4-Pad4)".
+
+Changing component "U4:/59CC56C2" pin "5" net name from "" to "Net-(D5-Pad2)".
+
+Info: Checking netlist component footprint "Y1:/59C980E0:Crystals:Crystal_SMD_3215-2pin_3.2x1.5mm".
+
+Adding new component "Y1:/59C980E0" footprint "Crystals:Crystal_SMD_3215-2pin_3.2x1.5mm".
+
+Changing component "Y1:/59C980E0" pin "1" net name from "" to "Net-(C12-Pad1)".
+
+Changing component "Y1:/59C980E0" pin "2" net name from "" to "Net-(C13-Pad1)".
+
+Info: Checking netlist component footprint "Y2:/59C96A46:Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm".
+
+Adding new component "Y2:/59C96A46" footprint "Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm".
+
+Changing component "Y2:/59C96A46" pin "1" net name from "" to "Net-(C15-Pad1)".
+
+Changing component "Y2:/59C96A46" pin "2" net name from "" to "GND".
+
+Changing component "Y2:/59C96A46" pin "3" net name from "" to "Net-(C14-Pad1)".
+
+Changing component "Y2:/59C96A46" pin "4" net name from "" to "GND".
+
+Error: Component 'J2' pad '14' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J2' pad '15' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J2' pad '10' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J2' pad '13' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J2' pad '9' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J2' pad '16' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J2' pad '11' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J2' pad '12' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '24' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '23' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '17' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '20' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '21' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '22' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '18' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J3' pad '19' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J5' pad 'G1' not found in footprint 'Project2Footprints:MicroSD'
+
+Error: Component 'J5' pad 'G3' not found in footprint 'Project2Footprints:MicroSD'
+
+Error: Component 'J5' pad 'G2' not found in footprint 'Project2Footprints:MicroSD'
+
+Error: Component 'J5' pad 'G4' not found in footprint 'Project2Footprints:MicroSD'
+
+Error: Component 'J8' pad '14' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J8' pad '15' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J8' pad '10' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J8' pad '9' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J8' pad '13' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J8' pad '16' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J8' pad '11' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'J8' pad '12' not found in footprint 'Project2Footprints:1x8_Header'
+
+Error: Component 'SW1' pad '2' not found in footprint 'Project2Footprints:Switch'
+
+Error: Component 'SW2' pad '2' not found in footprint 'Project2Footprints:Switch'
+
+Error: Component 'U2' pad '9' not found in footprint 'Project2Footprints:VoltageRegulator'
+
+Error: Component 'U2' pad '4' not found in footprint 'Project2Footprints:VoltageRegulator'
+
+Error: Component 'U2' pad '8' not found in footprint 'Project2Footprints:VoltageRegulator'
+
