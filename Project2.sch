@@ -496,9 +496,9 @@ USB_VBUS
 Text GLabel 4900 2050 2    60   Input ~ 0
 USB_ID
 Text GLabel 4100 2150 2    60   Input ~ 0
-USB_DM
+USB_D_N
 Text GLabel 4100 2250 2    60   Input ~ 0
-USB_DP
+USB_D_P
 Text GLabel 4100 1050 2    60   Input ~ 0
 X1
 Text GLabel 4100 1150 2    60   Input ~ 0
@@ -683,7 +683,7 @@ X18
 Text GLabel 11650 9300 3    60   Input ~ 0
 SW_X17
 Text GLabel 11650 8150 1    60   Input ~ 0
-BOOT0_P1
+BOOT0-P1
 Text GLabel 11750 8150 1    60   Input ~ 0
 BLU_P2
 Text GLabel 11850 8150 1    60   Input ~ 0
@@ -1261,9 +1261,9 @@ Wire Wire Line
 Text GLabel 12400 4600 0    60   Input ~ 0
 USB_VBUS
 Text GLabel 12400 4750 0    60   Input ~ 0
-USB_DM
+USB_D_N
 Text GLabel 12400 4950 0    60   Input ~ 0
-USB_DP
+USB_D_P
 Text GLabel 12400 5150 0    60   Input ~ 0
 USB_ID
 $Comp
